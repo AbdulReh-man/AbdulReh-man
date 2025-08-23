@@ -1,16 +1,16 @@
-<img width="1834" alt="READMEPic" src="https://github.com/user-attachments/assets/8656e776-1451-4cc6-bf22-1a21b51b8c20" width="60px">
+<img src="assets/img.png" alt="My Image">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Abdul Rehman</h1>
 
-<h3 align="center">I'm a passionate Front-end Developer from Pakistan.</h3>
+<h3 align="center">I'm a passionate Full-Stack Developer from Pakistan.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **MERN Stack Development**
+- 🔭 I’m currently working on **RUBY ON RAILS FULL-Stack Development**
 
-- 🌱 I’m currently learning **React.js TailwindCss Next.js TypeScript Express.js MongoDB**
+- 🌱 I’m currently learning **Rails Next.js TypeScript**
 
-<!-- - 👯 I’m looking to collaborate on **RealTime Projects** -->
+- 👯 I’m looking to collaborate on **RealTime Projects**
 
 - 👨‍💻 **[My Portfolio](https://abdulreh-man.github.io/React-Portfolio/)**
 
@@ -51,6 +51,8 @@
 <img width="12" />
 <code><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS logo"  /></code>
 <img width="12" />
+<code><img src="https://skillicons.dev/icons?i=ruby,sublime" height="40" alt="Ruby logo"/></code>
+<img width="12" />
 <code><img src="https://skillicons.dev/icons?i=express" height="40" alt="ExpressJS logo"  /></code>
 <img width="12" />
 <code><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo"  /></code>
@@ -79,16 +81,13 @@
 <img width="12" />
 <code><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="Postgres logo"  /></code>
 <img width="12" />
-<code><img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite logo"  /></code>
+<code><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" height="40" /></code>
 <img width="12" />
-<code><img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  /></code>
+<code><img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite logo"  /></code>
 <img width="12" />
 <code><img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="40"  alt="C++ logo"  /></code>
 <img width="12" />
 <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  /></code>
-<img width="12" />
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></code>
-<img width="12" />
 </div>
 
 </br>
