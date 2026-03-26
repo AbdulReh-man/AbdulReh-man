@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Abdul Rehman</h1>
 
-<h3 align="center">I'm a passionate Full-Stack Developer from Pakistan.</h3>
+<h3 align="center">I'm a Full-Stack Engineer from Pakistan.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **RUBY ON RAILS FULL-Stack Development**
+- 🔭 I’m currently working as **Front-End Engineer at @softation**
 
-- 🌱 I’m currently learning **Rails Next.js TypeScript**
+- 🌱 I’m currently Working with **ReactJs Next.js NodeJs and TypeScript**
 
 - 👯 I’m looking to collaborate on **RealTime Projects**
 
