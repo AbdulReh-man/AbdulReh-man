@@ -27,7 +27,7 @@
 ## Connect with me:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abdul-rehman-3b0ab82aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana-abobakar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdul-ur-rehman-3b0ab82aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana-abobakar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ar4797202018?igsh=bXVwaWFoMThhZHhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Abdul Rehman" height="30" width="40" /></a>
 <a href="https://x.com/AbdulRehman4797?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rana-abobakar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009389409203&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rana-abobakar" height="30" width="40" /></a>
