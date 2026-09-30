@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as **Front-End Engineer at @softation**
+- 🔭 I’m currently working as **Full-Stack Engineer at @sa-consultants-llc**
 
-- 🌱 I’m currently Working with **ReactJs Next.js NodeJs and TypeScript**
+- 🌱 I’m currently Working with **ReactJs Next.js Nest.js NodeJs TypeScript Docker and AWS-EC2**
 
 - 👯 I’m looking to collaborate on **RealTime Projects**
 
